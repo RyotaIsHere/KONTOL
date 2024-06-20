@@ -3238,9 +3238,9 @@ const cplist = [
  ...................                 .           ..                  ... .    ..
  '''.............                                                      ... ... .
  .......... ..                                                           ... ..
- ..........                 AUTHOR:BILLZ EXPLOIT 
-                        METHOD. : TLS-PRV
-                           CONCURENT:1                                         ..
+ ..........                 AUTHOR:Ryota-XD 
+                            METHOD. : TLS-PRV
+                            CONCURENT:1                                         ..
  ..........                                                                    .
  . . ..  ..                                                                  ..
                                                                              ..
@@ -3250,7 +3250,7 @@ const cplist = [
 
 
      `);
-        console.log("Succesfully Attack By @billzaja\n");
+        console.log("Succesfully Attack By @Ryota-XD\n");
         console.log("Website/Target: " + process.argv[2]);
         console.log("Times: "+ process.argv[3]);
         console.log("RPS: "+ process.argv[4]);
